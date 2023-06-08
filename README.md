@@ -6,3 +6,6 @@ Uso de interface gráfica em java em uma aplicação de cadastro de aluno
   - Um "quase" banco de dados com o uso de ArrayList
   - Tabela e atualização frquente dela com o banco de dados
   - Tratamento de erro para entrada númerica de label
+  - Tentativa de mascarar um CPF também
+
+* Uma simples experiência tentando aplicar princípios do que vi esse semestre
